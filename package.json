@@ -1,0 +1,19 @@
+{
+  "name": "js-homework04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JS Homework04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irina-mikaelyan/JS-Homework04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irina-mikaelyan/JS-Homework04/issues"
+  },
+  "homepage": "https://github.com/irina-mikaelyan/JS-Homework04#readme"
+}
